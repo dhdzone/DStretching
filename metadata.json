@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 건강 체조 존",
+  "description": "어르신들을 위한 스마트 건강 체조 따라하기 웹 서비스입니다.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
